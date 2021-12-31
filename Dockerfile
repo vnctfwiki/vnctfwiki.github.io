@@ -1,5 +1,4 @@
 FROM python:3.8-alpine as build-stage
-LABEL maintainer="je5r1ta@icloud.com"
 
 ADD . /opt/ctf-wiki/
 WORKDIR /opt/ctf-wiki
