@@ -8,42 +8,77 @@ repo_name: 'vnctfwiki/VNCTF-Wiki'
 repo_url: 'https://github.com/vnctfwiki/VNCTF-Wiki'
 
 # Copyright 
+copyright: Copyright &copy; 2021 - 2022 VNCTF Wiki Team
+
 # Contents
 nav:
   - Home:
-    - Introduction: 
-    - Usage:  
-    - Contribute: 
-    - Chat: 
+    - index.md
+  #   - Introduction: 
+  #   - Usage:  
+  #   - Contribute: 
+  #   - Chat: 
   - Miscellaneous: 
+    - misc/misc.md
   - Cryptography:
+    - crypto/crypto.md
   - Operating System: 
+    - os/os.md
   - Web:
+    - web/web.md
   - Pwnable: 
+    - pwn/pwn.md
   - Reverse Engineering: 
+    - reverse/reverse.md
   - Hardware: 
+    - hardware/hardware.md
   - Blockchain: 
+    - blockchain/blockchain.md
+  - Writeup:
+    - writeup/writeup.md
 
 # Themes
 theme: 
   name: material
+  icon: 
+    repo: fontawesome/brands/github
   palette:
     primary: indigo
-    accent: red
+    accent: deep orange
     scheme: preference
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.tabs.sticky
+    # - header.autohide
     - search.suggest
     - search.highlight
     - search.share
+    
+  font:
+    text: 'SF UI Display'
+  #   code: 'Fira Mono'
 
 # Extensions
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - admonition
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/vnctfwiki/VNCTF-Wiki
+  # alternate:
+  #   - name: English
+  #     link: /en/ 
+  #     lang: en
+  #   - name: Vietnamese
+  #     link: /vi/
+  #     lang: vi
