@@ -1,1 +1,1 @@
-# Welcome to **VNCTF Wiki**
+# Welcome to VNCTF Wiki
