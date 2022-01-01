@@ -19,23 +19,23 @@ nav:
   #   - Contribute: 
   #   - Chat: 
   - Miscellaneous: 
-    - misc/update.md
+    - misc/misc.md
   - Cryptography:
-    - crypto/update.md
+    - crypto/crypto.md
   - Operating System: 
-    - os/update.md
+    - os/os.md
   - Web:
-    - web/update.md
+    - web/web.md
   - Pwnable: 
-    - pwn/update.md
+    - pwn/pwn.md
   - Reverse Engineering: 
-    - reverse/update.md
+    - reverse/reverse.md
   - Hardware: 
-    - hardware/update.md
+    - hardware/hardware.md
   - Blockchain: 
-    - blockchain/update.md
+    - blockchain/blockchain.md
   - Writeup:
-    - writeup/update.md
+    - writeup/writeup.md
 
 # Themes
 theme: 
