@@ -1,6 +1,6 @@
 # Welcome to **VNCTF Wiki** [![GitHub forks](https://img.shields.io/github/forks/vnctfwiki/VNCTF-Wiki?style=social)](https://github.com/vnctfwiki/VNCTF-Wiki/network) [![GitHub stars](https://img.shields.io/github/stars/vnctfwiki/VNCTF-Wiki?style=social)](https://github.com/vnctfwiki/VNCTF-Wiki/stargazers)
 
-![VNCTF Wiki](images/vnctfwiki.png)
+![VNCTF Wiki](docs/images/vnctfwiki.png)
 
 Thư viện **VNCTF Wiki** được xây dựng nhằm tổng hợp, chia sẻ những kiến thức về **Capture The Flag (CTF)**. 
 
