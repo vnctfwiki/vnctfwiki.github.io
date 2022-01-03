@@ -41,6 +41,8 @@ nav:
 # Themes
 theme: 
   name: material
+  logo: images/logo.png
+  favicon: images/open-book.png
   icon: 
     repo: fontawesome/brands/github
   palette:
