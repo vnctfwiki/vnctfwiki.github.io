@@ -13,7 +13,8 @@ copyright: Copyright &copy; 2021 - 2022 VNCTF Wiki Team
 # Contents
 nav:
   - Home:
-    - index.md
+    - Welcome to VNCTF Wiki: index.md
+    - Thư ngỏ: home/about.md
   #   - Introduction: 
   #   - Usage:  
   #   - Contribute: 
@@ -56,13 +57,15 @@ theme:
     - search.share
     
   font:
-    text: 'SF UI Display'
-  #   code: 'Fira Mono'
+    # text: 'SF UI Display'
+    text: 'Segoe UI'
+    code: 'Monospace'
 
 # Extensions
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - attr_list
   - admonition
 
 extra_javascript:
