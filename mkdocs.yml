@@ -78,6 +78,7 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/twitter
+      link: https://twitter.com/vnctfwiki
     - icon: fontawesome/brands/github
       link: https://github.com/vnctfwiki/VNCTF-Wiki
   # alternate:
