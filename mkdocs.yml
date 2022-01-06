@@ -15,10 +15,8 @@ nav:
   - Home:
     - Welcome to VNCTF Wiki: index.md
     - Thư ngỏ: home/about.md
-  #   - Introduction: 
-  #   - Usage:  
-  #   - Contribute: 
-  #   - Chat: 
+    - Contribute: home/contribute/contribute.md 
+    # - FAQ: 
   - Miscellaneous: 
     - misc/misc.md
   - Cryptography:
