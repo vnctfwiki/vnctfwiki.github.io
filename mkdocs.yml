@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2021 - 2022 VNCTFWiki Team
 nav:
   - Home:
     - Welcome to VNCTF Wiki: index.md
-    - Thư ngỏ: home/about.md
+    - Story: home/story.md
     - Contribute: home/contribute/contribute.md 
     # - FAQ: 
   - Miscellaneous: 

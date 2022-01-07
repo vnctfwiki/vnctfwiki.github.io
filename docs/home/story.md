@@ -1,4 +1,4 @@
-# Thư ngỏ
+# Story
 
 Hàng năm, các nhà nghiên cứu bảo mật Việt Nam luôn tìm ra các lỗ hổng nguy hiểm hay có thứ hạng cao tại các cuộc thi Hacking trên thế giới. Từ đó mới thấy rằng, Việt Nam đang có những thế hệ chuyên gia bảo mật vô cùng tinh anh, xuất sắc. 
 
