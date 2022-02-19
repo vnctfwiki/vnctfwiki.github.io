@@ -4,8 +4,8 @@ site_author: VNCTF Team
 site_url: 
 
 # Repository
-repo_name: 'vnctfwiki/VNCTF-Wiki'
-repo_url: 'https://github.com/vnctfwiki/VNCTF-Wiki'
+repo_name: 'vnctfwiki/vnctfwiki.github.io'
+repo_url: 'https://github.com/vnctfwiki/vnctfwiki.github.io'
 
 # Copyright 
 copyright: Copyright &copy; 2021 - 2022 VNCTFWiki Team
@@ -15,7 +15,7 @@ nav:
   - Home:
     - Welcome to VNCTF Wiki: index.md
     - Thư ngỏ: home/about.md
-    - Contribute: home/contribute/contribute.md 
+    - Đóng góp: home/contribute/contribute.md 
     # - FAQ: 
   - Miscellaneous: 
     - misc/misc.md
@@ -44,8 +44,8 @@ theme:
   icon: 
     repo: fontawesome/brands/github
   palette:
-    primary: indigo
-    accent: deep orange
+    primary: white
+    accent: red
     scheme: preference
   features:
     - navigation.tabs
